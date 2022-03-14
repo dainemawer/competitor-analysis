@@ -1,0 +1,26 @@
+{
+  "name": "dainemawer-competitor-analysis",
+  "version": "1.0.0",
+  "description": "Use the WebPageTest to create a competitor analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dainemawer/competitor-analysis.git"
+  },
+  "keywords": [
+    "competitor",
+    "analysis",
+    "performance",
+    "monitoring"
+  ],
+  "private": true,
+  "author": "Daine Mawer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dainemawer/competitor-analysis/issues"
+  },
+  "homepage": "https://github.com/dainemawer/competitor-analysis#readme"
+}
